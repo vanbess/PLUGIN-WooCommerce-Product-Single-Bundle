@@ -1,0 +1,191 @@
+.small-1 {
+    max-width: 8.33333%;
+    -ms-flex-preferred-size: 8.33333%;
+    flex-basis: 8.33333%
+}
+
+.small-2 {
+    max-width: 16.66667%;
+    -ms-flex-preferred-size: 16.66667%;
+    flex-basis: 16.66667%
+}
+
+.small-3 {
+    max-width: 25%;
+    -ms-flex-preferred-size: 25%;
+    flex-basis: 25%
+}
+
+.product-gallery.row .product-image-full {
+    right: 1rem;
+}
+
+.product-gallery .product-image-full {
+    position: absolute;
+    width: auto;
+}
+
+.elementor-kit-12 button, .elementor-kit-12 input[type="button"], .elementor-kit-12 input[type="submit"], .elementor-kit-12 .elementor-button {
+    font-family: "Montserrat", Montserrat;
+}
+
+.product-image-full {
+    padding: 1rem;
+    right: 1rem;
+    bottom: 1rem;
+    border: 0;
+    color: #999;
+    background: transparent;
+    font-size: calc(2rem * var(--rio-typo-ratio, 1));
+    line-height: 1;
+    opacity: 0;
+    transition: opacity 0.3s, color 0.3s;
+    z-index: 1;
+    cursor: pointer;
+}
+
+button.product-image-full.d-icon-zoom:before {
+    content: "\e94b";
+}
+
+span#pbs_out_of_stock_msg {
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 500;
+    background: lightgray;
+    padding: 5px 15px;
+    margin-top: 24px;
+    position: relative;
+    left: 67px;
+    margin-bottom: 5px;
+    border-radius: 2px;
+    color: white;
+}
+
+.small-4 {
+    max-width: 33.33333%;
+    -ms-flex-preferred-size: 33.33333%;
+    flex-basis: 33.33333%
+}
+
+.small-5 {
+    max-width: 41.66667%;
+    -ms-flex-preferred-size: 41.66667%;
+    flex-basis: 41.66667%
+}
+
+.small-6 {
+    max-width: 50%;
+    -ms-flex-preferred-size: 50%;
+    flex-basis: 50%
+}
+
+.small-7 {
+    max-width: 58.33333%;
+    -ms-flex-preferred-size: 58.33333%;
+    flex-basis: 58.33333%
+}
+
+.small-8 {
+    max-width: 66.66667%;
+    -ms-flex-preferred-size: 66.66667%;
+    flex-basis: 66.66667%
+}
+
+.small-9 {
+    max-width: 75%;
+    -ms-flex-preferred-size: 75%;
+    flex-basis: 75%
+}
+
+.small-10 {
+    max-width: 83.33333%;
+    -ms-flex-preferred-size: 83.33333%;
+    flex-basis: 83.33333%
+}
+
+.small-11 {
+    max-width: 91.66667%;
+    -ms-flex-preferred-size: 91.66667%;
+    flex-basis: 91.66667%
+}
+
+.small-12 {
+    max-width: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%
+}
+
+@media screen and (min-width: 850px) {
+    .large-1 {
+        max-width: 8.33333%;
+        -ms-flex-preferred-size: 8.33333%;
+        flex-basis: 8.33333%
+    }
+
+    .large-2 {
+        max-width: 16.66667%;
+        -ms-flex-preferred-size: 16.66667%;
+        flex-basis: 16.66667%
+    }
+
+    .large-3 {
+        max-width: 25%;
+        -ms-flex-preferred-size: 25%;
+        flex-basis: 25%
+    }
+
+    .large-4 {
+        max-width: 33.33333%;
+        -ms-flex-preferred-size: 33.33333%;
+        flex-basis: 33.33333%
+    }
+
+    .large-5 {
+        max-width: 41.66667%;
+        -ms-flex-preferred-size: 41.66667%;
+        flex-basis: 41.66667%
+    }
+
+    .large-6 {
+        max-width: 50%;
+        -ms-flex-preferred-size: 50%;
+        flex-basis: 50%
+    }
+
+    .large-7 {
+        max-width: 58.33333%;
+        -ms-flex-preferred-size: 58.33333%;
+        flex-basis: 58.33333%
+    }
+
+    .large-8 {
+        max-width: 66.66667%;
+        -ms-flex-preferred-size: 66.66667%;
+        flex-basis: 66.66667%
+    }
+
+    .large-9 {
+        max-width: 75%;
+        -ms-flex-preferred-size: 75%;
+        flex-basis: 75%
+    }
+
+    .large-10 {
+        max-width: 83.33333%;
+        -ms-flex-preferred-size: 83.33333%;
+        flex-basis: 83.33333%
+    }
+
+    .large-11 {
+        max-width: 91.66667%;
+        -ms-flex-preferred-size: 91.66667%;
+        flex-basis: 91.66667%
+    }
+
+    .large-12 {
+        max-width: 100%;
+        -ms-flex-preferred-size: 100%;
+        flex-basis: 100%
+    }
+}

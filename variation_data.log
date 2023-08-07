@@ -1,0 +1,829 @@
+Array
+(
+    [0] => Array
+        (
+            [attributes] => Array
+                (
+                    [attribute_pa_size] => 37
+                )
+
+            [availability_html] => 
+            [backorders_allowed] => 
+            [dimensions] => Array
+                (
+                    [length] => 
+                    [width] => 
+                    [height] => 
+                )
+
+            [dimensions_html] => N/A
+            [display_price] => 9999
+            [display_regular_price] => 9999
+            [image] => Array
+                (
+                    [title] => 1400x1400_01
+                    [caption] => 
+                    [url] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg
+                    [alt] => 1400x1400_01
+                    [src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-600x600.jpg
+                    [srcset] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-600x600.jpg 600w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-150x150.jpg 150w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-300x300.jpg 300w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-768x768.jpg 768w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-1024x1024.jpg 1024w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg 1400w
+                    [sizes] => (max-width: 600px) 100vw, 600px
+                    [full_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg
+                    [full_src_w] => 1400
+                    [full_src_h] => 1400
+                    [gallery_thumbnail_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-150x150.jpg
+                    [gallery_thumbnail_src_w] => 150
+                    [gallery_thumbnail_src_h] => 150
+                    [thumb_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-300x300.jpg
+                    [thumb_src_w] => 300
+                    [thumb_src_h] => 300
+                    [src_w] => 600
+                    [src_h] => 600
+                )
+
+            [image_id] => 12224
+            [is_downloadable] => 
+            [is_in_stock] => 1
+            [is_purchasable] => 1
+            [is_sold_individually] => no
+            [is_virtual] => 
+            [max_qty] => 
+            [min_qty] => 1
+            [price_html] => 
+            [sku] => CL-01-04-37
+            [variation_description] => 
+            [variation_id] => 1406
+            [variation_is_active] => 1
+            [variation_is_visible] => 1
+            [weight] => 
+            [weight_html] => N/A
+        )
+
+    [1] => Array
+        (
+            [attributes] => Array
+                (
+                    [attribute_pa_size] => 38
+                )
+
+            [availability_html] => 
+            [backorders_allowed] => 
+            [dimensions] => Array
+                (
+                    [length] => 
+                    [width] => 
+                    [height] => 
+                )
+
+            [dimensions_html] => N/A
+            [display_price] => 9999
+            [display_regular_price] => 9999
+            [image] => Array
+                (
+                    [title] => 1400x1400_01
+                    [caption] => 
+                    [url] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg
+                    [alt] => 1400x1400_01
+                    [src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-600x600.jpg
+                    [srcset] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-600x600.jpg 600w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-150x150.jpg 150w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-300x300.jpg 300w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-768x768.jpg 768w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-1024x1024.jpg 1024w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg 1400w
+                    [sizes] => (max-width: 600px) 100vw, 600px
+                    [full_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg
+                    [full_src_w] => 1400
+                    [full_src_h] => 1400
+                    [gallery_thumbnail_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-150x150.jpg
+                    [gallery_thumbnail_src_w] => 150
+                    [gallery_thumbnail_src_h] => 150
+                    [thumb_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-300x300.jpg
+                    [thumb_src_w] => 300
+                    [thumb_src_h] => 300
+                    [src_w] => 600
+                    [src_h] => 600
+                )
+
+            [image_id] => 12224
+            [is_downloadable] => 
+            [is_in_stock] => 1
+            [is_purchasable] => 1
+            [is_sold_individually] => no
+            [is_virtual] => 
+            [max_qty] => 
+            [min_qty] => 1
+            [price_html] => 
+            [sku] => CL-01-04-38
+            [variation_description] => 
+            [variation_id] => 1407
+            [variation_is_active] => 1
+            [variation_is_visible] => 1
+            [weight] => 
+            [weight_html] => N/A
+        )
+
+    [2] => Array
+        (
+            [attributes] => Array
+                (
+                    [attribute_pa_size] => 39
+                )
+
+            [availability_html] => 
+            [backorders_allowed] => 
+            [dimensions] => Array
+                (
+                    [length] => 
+                    [width] => 
+                    [height] => 
+                )
+
+            [dimensions_html] => N/A
+            [display_price] => 9999
+            [display_regular_price] => 9999
+            [image] => Array
+                (
+                    [title] => 1400x1400_01
+                    [caption] => 
+                    [url] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg
+                    [alt] => 1400x1400_01
+                    [src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-600x600.jpg
+                    [srcset] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-600x600.jpg 600w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-150x150.jpg 150w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-300x300.jpg 300w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-768x768.jpg 768w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-1024x1024.jpg 1024w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg 1400w
+                    [sizes] => (max-width: 600px) 100vw, 600px
+                    [full_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg
+                    [full_src_w] => 1400
+                    [full_src_h] => 1400
+                    [gallery_thumbnail_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-150x150.jpg
+                    [gallery_thumbnail_src_w] => 150
+                    [gallery_thumbnail_src_h] => 150
+                    [thumb_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-300x300.jpg
+                    [thumb_src_w] => 300
+                    [thumb_src_h] => 300
+                    [src_w] => 600
+                    [src_h] => 600
+                )
+
+            [image_id] => 12224
+            [is_downloadable] => 
+            [is_in_stock] => 1
+            [is_purchasable] => 1
+            [is_sold_individually] => no
+            [is_virtual] => 
+            [max_qty] => 
+            [min_qty] => 1
+            [price_html] => 
+            [sku] => CL-01-04-39
+            [variation_description] => 
+            [variation_id] => 1408
+            [variation_is_active] => 1
+            [variation_is_visible] => 1
+            [weight] => 
+            [weight_html] => N/A
+        )
+
+    [3] => Array
+        (
+            [attributes] => Array
+                (
+                    [attribute_pa_size] => 40
+                )
+
+            [availability_html] => 
+            [backorders_allowed] => 
+            [dimensions] => Array
+                (
+                    [length] => 
+                    [width] => 
+                    [height] => 
+                )
+
+            [dimensions_html] => N/A
+            [display_price] => 9999
+            [display_regular_price] => 9999
+            [image] => Array
+                (
+                    [title] => 1400x1400_01
+                    [caption] => 
+                    [url] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg
+                    [alt] => 1400x1400_01
+                    [src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-600x600.jpg
+                    [srcset] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-600x600.jpg 600w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-150x150.jpg 150w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-300x300.jpg 300w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-768x768.jpg 768w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-1024x1024.jpg 1024w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg 1400w
+                    [sizes] => (max-width: 600px) 100vw, 600px
+                    [full_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg
+                    [full_src_w] => 1400
+                    [full_src_h] => 1400
+                    [gallery_thumbnail_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-150x150.jpg
+                    [gallery_thumbnail_src_w] => 150
+                    [gallery_thumbnail_src_h] => 150
+                    [thumb_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-300x300.jpg
+                    [thumb_src_w] => 300
+                    [thumb_src_h] => 300
+                    [src_w] => 600
+                    [src_h] => 600
+                )
+
+            [image_id] => 12224
+            [is_downloadable] => 
+            [is_in_stock] => 1
+            [is_purchasable] => 1
+            [is_sold_individually] => no
+            [is_virtual] => 
+            [max_qty] => 
+            [min_qty] => 1
+            [price_html] => 
+            [sku] => CL-01-04-40
+            [variation_description] => 
+            [variation_id] => 1409
+            [variation_is_active] => 1
+            [variation_is_visible] => 1
+            [weight] => 
+            [weight_html] => N/A
+        )
+
+    [4] => Array
+        (
+            [attributes] => Array
+                (
+                    [attribute_pa_size] => 41
+                )
+
+            [availability_html] => 
+            [backorders_allowed] => 
+            [dimensions] => Array
+                (
+                    [length] => 
+                    [width] => 
+                    [height] => 
+                )
+
+            [dimensions_html] => N/A
+            [display_price] => 9999
+            [display_regular_price] => 9999
+            [image] => Array
+                (
+                    [title] => 1400x1400_01
+                    [caption] => 
+                    [url] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg
+                    [alt] => 1400x1400_01
+                    [src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-600x600.jpg
+                    [srcset] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-600x600.jpg 600w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-150x150.jpg 150w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-300x300.jpg 300w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-768x768.jpg 768w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-1024x1024.jpg 1024w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg 1400w
+                    [sizes] => (max-width: 600px) 100vw, 600px
+                    [full_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg
+                    [full_src_w] => 1400
+                    [full_src_h] => 1400
+                    [gallery_thumbnail_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-150x150.jpg
+                    [gallery_thumbnail_src_w] => 150
+                    [gallery_thumbnail_src_h] => 150
+                    [thumb_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-300x300.jpg
+                    [thumb_src_w] => 300
+                    [thumb_src_h] => 300
+                    [src_w] => 600
+                    [src_h] => 600
+                )
+
+            [image_id] => 12224
+            [is_downloadable] => 
+            [is_in_stock] => 1
+            [is_purchasable] => 1
+            [is_sold_individually] => no
+            [is_virtual] => 
+            [max_qty] => 
+            [min_qty] => 1
+            [price_html] => 
+            [sku] => CL-01-04-41
+            [variation_description] => 
+            [variation_id] => 1410
+            [variation_is_active] => 1
+            [variation_is_visible] => 1
+            [weight] => 
+            [weight_html] => N/A
+        )
+
+    [5] => Array
+        (
+            [attributes] => Array
+                (
+                    [attribute_pa_size] => 42
+                )
+
+            [availability_html] => 
+            [backorders_allowed] => 
+            [dimensions] => Array
+                (
+                    [length] => 
+                    [width] => 
+                    [height] => 
+                )
+
+            [dimensions_html] => N/A
+            [display_price] => 9999
+            [display_regular_price] => 9999
+            [image] => Array
+                (
+                    [title] => 1400x1400_01
+                    [caption] => 
+                    [url] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg
+                    [alt] => 1400x1400_01
+                    [src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-600x600.jpg
+                    [srcset] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-600x600.jpg 600w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-150x150.jpg 150w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-300x300.jpg 300w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-768x768.jpg 768w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-1024x1024.jpg 1024w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg 1400w
+                    [sizes] => (max-width: 600px) 100vw, 600px
+                    [full_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg
+                    [full_src_w] => 1400
+                    [full_src_h] => 1400
+                    [gallery_thumbnail_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-150x150.jpg
+                    [gallery_thumbnail_src_w] => 150
+                    [gallery_thumbnail_src_h] => 150
+                    [thumb_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-300x300.jpg
+                    [thumb_src_w] => 300
+                    [thumb_src_h] => 300
+                    [src_w] => 600
+                    [src_h] => 600
+                )
+
+            [image_id] => 12224
+            [is_downloadable] => 
+            [is_in_stock] => 1
+            [is_purchasable] => 1
+            [is_sold_individually] => no
+            [is_virtual] => 
+            [max_qty] => 
+            [min_qty] => 1
+            [price_html] => 
+            [sku] => CL-01-04-42
+            [variation_description] => 
+            [variation_id] => 1411
+            [variation_is_active] => 1
+            [variation_is_visible] => 1
+            [weight] => 
+            [weight_html] => N/A
+        )
+
+    [6] => Array
+        (
+            [attributes] => Array
+                (
+                    [attribute_pa_size] => 42-5
+                )
+
+            [availability_html] => 
+            [backorders_allowed] => 
+            [dimensions] => Array
+                (
+                    [length] => 
+                    [width] => 
+                    [height] => 
+                )
+
+            [dimensions_html] => N/A
+            [display_price] => 9999
+            [display_regular_price] => 9999
+            [image] => Array
+                (
+                    [title] => 1400x1400_01
+                    [caption] => 
+                    [url] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg
+                    [alt] => 1400x1400_01
+                    [src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-600x600.jpg
+                    [srcset] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-600x600.jpg 600w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-150x150.jpg 150w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-300x300.jpg 300w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-768x768.jpg 768w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-1024x1024.jpg 1024w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg 1400w
+                    [sizes] => (max-width: 600px) 100vw, 600px
+                    [full_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg
+                    [full_src_w] => 1400
+                    [full_src_h] => 1400
+                    [gallery_thumbnail_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-150x150.jpg
+                    [gallery_thumbnail_src_w] => 150
+                    [gallery_thumbnail_src_h] => 150
+                    [thumb_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-300x300.jpg
+                    [thumb_src_w] => 300
+                    [thumb_src_h] => 300
+                    [src_w] => 600
+                    [src_h] => 600
+                )
+
+            [image_id] => 12224
+            [is_downloadable] => 
+            [is_in_stock] => 1
+            [is_purchasable] => 1
+            [is_sold_individually] => no
+            [is_virtual] => 
+            [max_qty] => 
+            [min_qty] => 1
+            [price_html] => 
+            [sku] => CL-01-04-42.5
+            [variation_description] => 
+            [variation_id] => 1412
+            [variation_is_active] => 1
+            [variation_is_visible] => 1
+            [weight] => 
+            [weight_html] => N/A
+        )
+
+    [7] => Array
+        (
+            [attributes] => Array
+                (
+                    [attribute_pa_size] => 43
+                )
+
+            [availability_html] => 
+            [backorders_allowed] => 
+            [dimensions] => Array
+                (
+                    [length] => 
+                    [width] => 
+                    [height] => 
+                )
+
+            [dimensions_html] => N/A
+            [display_price] => 9999
+            [display_regular_price] => 9999
+            [image] => Array
+                (
+                    [title] => 1400x1400_01
+                    [caption] => 
+                    [url] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg
+                    [alt] => 1400x1400_01
+                    [src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-600x600.jpg
+                    [srcset] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-600x600.jpg 600w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-150x150.jpg 150w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-300x300.jpg 300w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-768x768.jpg 768w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-1024x1024.jpg 1024w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg 1400w
+                    [sizes] => (max-width: 600px) 100vw, 600px
+                    [full_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg
+                    [full_src_w] => 1400
+                    [full_src_h] => 1400
+                    [gallery_thumbnail_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-150x150.jpg
+                    [gallery_thumbnail_src_w] => 150
+                    [gallery_thumbnail_src_h] => 150
+                    [thumb_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-300x300.jpg
+                    [thumb_src_w] => 300
+                    [thumb_src_h] => 300
+                    [src_w] => 600
+                    [src_h] => 600
+                )
+
+            [image_id] => 12224
+            [is_downloadable] => 
+            [is_in_stock] => 1
+            [is_purchasable] => 1
+            [is_sold_individually] => no
+            [is_virtual] => 
+            [max_qty] => 
+            [min_qty] => 1
+            [price_html] => 
+            [sku] => CL-01-04-43
+            [variation_description] => 
+            [variation_id] => 1413
+            [variation_is_active] => 1
+            [variation_is_visible] => 1
+            [weight] => 
+            [weight_html] => N/A
+        )
+
+    [8] => Array
+        (
+            [attributes] => Array
+                (
+                    [attribute_pa_size] => 44
+                )
+
+            [availability_html] => 
+            [backorders_allowed] => 
+            [dimensions] => Array
+                (
+                    [length] => 
+                    [width] => 
+                    [height] => 
+                )
+
+            [dimensions_html] => N/A
+            [display_price] => 9999
+            [display_regular_price] => 9999
+            [image] => Array
+                (
+                    [title] => 1400x1400_01
+                    [caption] => 
+                    [url] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg
+                    [alt] => 1400x1400_01
+                    [src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-600x600.jpg
+                    [srcset] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-600x600.jpg 600w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-150x150.jpg 150w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-300x300.jpg 300w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-768x768.jpg 768w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-1024x1024.jpg 1024w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg 1400w
+                    [sizes] => (max-width: 600px) 100vw, 600px
+                    [full_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg
+                    [full_src_w] => 1400
+                    [full_src_h] => 1400
+                    [gallery_thumbnail_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-150x150.jpg
+                    [gallery_thumbnail_src_w] => 150
+                    [gallery_thumbnail_src_h] => 150
+                    [thumb_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-300x300.jpg
+                    [thumb_src_w] => 300
+                    [thumb_src_h] => 300
+                    [src_w] => 600
+                    [src_h] => 600
+                )
+
+            [image_id] => 12224
+            [is_downloadable] => 
+            [is_in_stock] => 1
+            [is_purchasable] => 1
+            [is_sold_individually] => no
+            [is_virtual] => 
+            [max_qty] => 
+            [min_qty] => 1
+            [price_html] => 
+            [sku] => CL-01-04-44
+            [variation_description] => 
+            [variation_id] => 1414
+            [variation_is_active] => 1
+            [variation_is_visible] => 1
+            [weight] => 
+            [weight_html] => N/A
+        )
+
+    [9] => Array
+        (
+            [attributes] => Array
+                (
+                    [attribute_pa_size] => 45
+                )
+
+            [availability_html] => 
+            [backorders_allowed] => 
+            [dimensions] => Array
+                (
+                    [length] => 
+                    [width] => 
+                    [height] => 
+                )
+
+            [dimensions_html] => N/A
+            [display_price] => 9999
+            [display_regular_price] => 9999
+            [image] => Array
+                (
+                    [title] => 1400x1400_01
+                    [caption] => 
+                    [url] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg
+                    [alt] => 1400x1400_01
+                    [src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-600x600.jpg
+                    [srcset] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-600x600.jpg 600w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-150x150.jpg 150w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-300x300.jpg 300w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-768x768.jpg 768w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-1024x1024.jpg 1024w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg 1400w
+                    [sizes] => (max-width: 600px) 100vw, 600px
+                    [full_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg
+                    [full_src_w] => 1400
+                    [full_src_h] => 1400
+                    [gallery_thumbnail_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-150x150.jpg
+                    [gallery_thumbnail_src_w] => 150
+                    [gallery_thumbnail_src_h] => 150
+                    [thumb_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-300x300.jpg
+                    [thumb_src_w] => 300
+                    [thumb_src_h] => 300
+                    [src_w] => 600
+                    [src_h] => 600
+                )
+
+            [image_id] => 12224
+            [is_downloadable] => 
+            [is_in_stock] => 1
+            [is_purchasable] => 1
+            [is_sold_individually] => no
+            [is_virtual] => 
+            [max_qty] => 
+            [min_qty] => 1
+            [price_html] => 
+            [sku] => CL-01-04-45
+            [variation_description] => 
+            [variation_id] => 1415
+            [variation_is_active] => 1
+            [variation_is_visible] => 1
+            [weight] => 
+            [weight_html] => N/A
+        )
+
+    [10] => Array
+        (
+            [attributes] => Array
+                (
+                    [attribute_pa_size] => 46
+                )
+
+            [availability_html] => 
+            [backorders_allowed] => 
+            [dimensions] => Array
+                (
+                    [length] => 
+                    [width] => 
+                    [height] => 
+                )
+
+            [dimensions_html] => N/A
+            [display_price] => 9999
+            [display_regular_price] => 9999
+            [image] => Array
+                (
+                    [title] => 1400x1400_01
+                    [caption] => 
+                    [url] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg
+                    [alt] => 1400x1400_01
+                    [src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-600x600.jpg
+                    [srcset] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-600x600.jpg 600w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-150x150.jpg 150w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-300x300.jpg 300w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-768x768.jpg 768w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-1024x1024.jpg 1024w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg 1400w
+                    [sizes] => (max-width: 600px) 100vw, 600px
+                    [full_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg
+                    [full_src_w] => 1400
+                    [full_src_h] => 1400
+                    [gallery_thumbnail_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-150x150.jpg
+                    [gallery_thumbnail_src_w] => 150
+                    [gallery_thumbnail_src_h] => 150
+                    [thumb_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-300x300.jpg
+                    [thumb_src_w] => 300
+                    [thumb_src_h] => 300
+                    [src_w] => 600
+                    [src_h] => 600
+                )
+
+            [image_id] => 12224
+            [is_downloadable] => 
+            [is_in_stock] => 1
+            [is_purchasable] => 1
+            [is_sold_individually] => no
+            [is_virtual] => 
+            [max_qty] => 
+            [min_qty] => 1
+            [price_html] => 
+            [sku] => CL-01-04-46
+            [variation_description] => 
+            [variation_id] => 1416
+            [variation_is_active] => 1
+            [variation_is_visible] => 1
+            [weight] => 
+            [weight_html] => N/A
+        )
+
+    [11] => Array
+        (
+            [attributes] => Array
+                (
+                    [attribute_pa_size] => 47
+                )
+
+            [availability_html] => <p class="stock in-stock">In stock</p>
+            [backorders_allowed] => 
+            [dimensions] => Array
+                (
+                    [length] => 
+                    [width] => 
+                    [height] => 
+                )
+
+            [dimensions_html] => N/A
+            [display_price] => 9999
+            [display_regular_price] => 9999
+            [image] => Array
+                (
+                    [title] => 1400x1400_01
+                    [caption] => 
+                    [url] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg
+                    [alt] => 1400x1400_01
+                    [src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-600x600.jpg
+                    [srcset] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-600x600.jpg 600w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-150x150.jpg 150w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-300x300.jpg 300w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-768x768.jpg 768w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-1024x1024.jpg 1024w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg 1400w
+                    [sizes] => (max-width: 600px) 100vw, 600px
+                    [full_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg
+                    [full_src_w] => 1400
+                    [full_src_h] => 1400
+                    [gallery_thumbnail_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-150x150.jpg
+                    [gallery_thumbnail_src_w] => 150
+                    [gallery_thumbnail_src_h] => 150
+                    [thumb_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-300x300.jpg
+                    [thumb_src_w] => 300
+                    [thumb_src_h] => 300
+                    [src_w] => 600
+                    [src_h] => 600
+                )
+
+            [image_id] => 12224
+            [is_downloadable] => 
+            [is_in_stock] => 1
+            [is_purchasable] => 1
+            [is_sold_individually] => no
+            [is_virtual] => 
+            [max_qty] => 4
+            [min_qty] => 1
+            [price_html] => 
+            [sku] => CL-01-04-47
+            [variation_description] => 
+            [variation_id] => 1417
+            [variation_is_active] => 1
+            [variation_is_visible] => 1
+            [weight] => 
+            [weight_html] => N/A
+        )
+
+    [12] => Array
+        (
+            [attributes] => Array
+                (
+                    [attribute_pa_size] => 47-5
+                )
+
+            [availability_html] => <p class="stock in-stock">In stock</p>
+            [backorders_allowed] => 
+            [dimensions] => Array
+                (
+                    [length] => 
+                    [width] => 
+                    [height] => 
+                )
+
+            [dimensions_html] => N/A
+            [display_price] => 9999
+            [display_regular_price] => 9999
+            [image] => Array
+                (
+                    [title] => 1400x1400_01
+                    [caption] => 
+                    [url] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg
+                    [alt] => 1400x1400_01
+                    [src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-600x600.jpg
+                    [srcset] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-600x600.jpg 600w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-150x150.jpg 150w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-300x300.jpg 300w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-768x768.jpg 768w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-1024x1024.jpg 1024w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg 1400w
+                    [sizes] => (max-width: 600px) 100vw, 600px
+                    [full_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg
+                    [full_src_w] => 1400
+                    [full_src_h] => 1400
+                    [gallery_thumbnail_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-150x150.jpg
+                    [gallery_thumbnail_src_w] => 150
+                    [gallery_thumbnail_src_h] => 150
+                    [thumb_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-300x300.jpg
+                    [thumb_src_w] => 300
+                    [thumb_src_h] => 300
+                    [src_w] => 600
+                    [src_h] => 600
+                )
+
+            [image_id] => 12224
+            [is_downloadable] => 
+            [is_in_stock] => 1
+            [is_purchasable] => 1
+            [is_sold_individually] => no
+            [is_virtual] => 
+            [max_qty] => 6
+            [min_qty] => 1
+            [price_html] => 
+            [sku] => CL-01-04-47.5
+            [variation_description] => 
+            [variation_id] => 1418
+            [variation_is_active] => 1
+            [variation_is_visible] => 1
+            [weight] => 
+            [weight_html] => N/A
+        )
+
+    [13] => Array
+        (
+            [attributes] => Array
+                (
+                    [attribute_pa_size] => 48
+                )
+
+            [availability_html] => <p class="stock in-stock">In stock</p>
+            [backorders_allowed] => 
+            [dimensions] => Array
+                (
+                    [length] => 
+                    [width] => 
+                    [height] => 
+                )
+
+            [dimensions_html] => N/A
+            [display_price] => 9999
+            [display_regular_price] => 9999
+            [image] => Array
+                (
+                    [title] => 1400x1400_01
+                    [caption] => 
+                    [url] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg
+                    [alt] => 1400x1400_01
+                    [src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-600x600.jpg
+                    [srcset] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-600x600.jpg 600w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-150x150.jpg 150w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-300x300.jpg 300w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-768x768.jpg 768w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-1024x1024.jpg 1024w, https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg 1400w
+                    [sizes] => (max-width: 600px) 100vw, 600px
+                    [full_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10.jpg
+                    [full_src_w] => 1400
+                    [full_src_h] => 1400
+                    [gallery_thumbnail_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-150x150.jpg
+                    [gallery_thumbnail_src_w] => 150
+                    [gallery_thumbnail_src_h] => 150
+                    [thumb_src] => https://canles.test/wp-content/uploads/2023/05/1400x1400_01-10-300x300.jpg
+                    [thumb_src_w] => 300
+                    [thumb_src_h] => 300
+                    [src_w] => 600
+                    [src_h] => 600
+                )
+
+            [image_id] => 12224
+            [is_downloadable] => 
+            [is_in_stock] => 1
+            [is_purchasable] => 1
+            [is_sold_individually] => no
+            [is_virtual] => 
+            [max_qty] => 1
+            [min_qty] => 1
+            [price_html] => 
+            [sku] => CL-01-04-48
+            [variation_description] => 
+            [variation_id] => 1419
+            [variation_is_active] => 1
+            [variation_is_visible] => 1
+            [weight] => 
+            [weight_html] => N/A
+        )
+
+)
